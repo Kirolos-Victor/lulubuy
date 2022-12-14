@@ -20,6 +20,7 @@
 ### Setup the laravel queue
 
 > inside the .env file change QUEUE_CONNECTION=**database**
+>
 > run php artisan queue:work
 
 ### Task
